@@ -1,0 +1,13 @@
+===========[ Changelog ]=============
+0.9b
+Changed volume meter to scrollable bar -> mousewheel up/down on mouseover
+Changed brightness to the same, with handy 0% and 100% buttons.
+Brightness uses a seperate program now, you might have to configure some options
+for it in the taskbar seperately
+Audio output is not scrollable to prevent accidental change.
+
+1.0 release
+changed theme name to Awesome Adjusters as it is no longer just a "brightness" utility
+changed brightness to a bar
+added 2 variants to brightness - with/without buttons
+merged audio switcher with volume adjust
