@@ -11,3 +11,8 @@ changed theme name to Awesome Adjusters as it is no longer just a "brightness" u
 changed brightness to a bar
 added 2 variants to brightness - with/without buttons
 merged audio switcher with volume adjust
+
+1.1
+removed brightness_with_buttons as its ugly and pointless
+added compatibility for any version of ClickMonitorDDC_*.exe
+added set_current_brightness.bat to manage +/- brightness

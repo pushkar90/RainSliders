@@ -1,3 +1,3 @@
 @echo off
-ClickMonitorDDC_3_7.exe  d
+for %%i in (*ClickMonitorDDC_*.exe) do %%i d
 ECHO %ERRORLEVEL%
